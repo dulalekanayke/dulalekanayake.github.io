@@ -13,7 +13,7 @@ avatar: http://images.nationalgeographic.com/wpf/media-live/photos/000/007/cache
 
 #
 # Flags below are optional
-#
+# @@ -85,4 +85,4 @@ exclude:
 
 # Includes an icon in the footer for each username you enter
 footer-links:

@@ -1,5 +1,5 @@
 ---
-title: My First Blog
+title: learning the variables
 layout: post
 author: ekanayake.ekanayake
 permalink: /my-first-blog/
@@ -8,8 +8,8 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>My First Blog</td>
+    <td></td>
+    <td>Learning the variables</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
@@ -19,15 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I started not knowing what github could do and how to create a website. I wanted to learn more about designing websites hence my expectation for my future job.</td>
+    <td>Even though i have learned scratch before, I've always struggled with variables, for an example when have to add an operator(s) to subtract, add, multiply or divide.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>I wanted to learn the basics of publishing and blogging on github.</td>
+    <td>I want to be at an intermediate level when doing variables and want to be able to make a score for a game like ping pong. </td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>yes , by watching the tutorial on google slides, i managed to create a github page.</td>
+    <td>Not YET, but at home  im determined to succeed in variables.</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I did not give up, like when my code had an error - I simply went onto my github blog settings to see that the problem was on line 12, the line in which i import the URL of an image  to my 'config' page.</td>
+    <td>In most cases I tend to avoid using variables as they most likely fail me and then I have to commit to troubleshooting which is a very long period of time in which I suffer, trying to figuring out what was wrong. But this time I persevered and (kind of got to my target)</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I questioned the colour effects of the page by looking at the colour themes page that was put on the github help page.</td>
+    <td>Thing is I didn't really need to ask a question because I knew the basic idea or the concept of a variable command but I didn't know how to use it in the format of a ping pong game. </td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>Most of the time I had to work independently, using my given resources (the internet) to figure things out, but occasionally I got the help of my partner.</td>
+    <td>I was quite independent as I didn’t need the aid of the teacher to, again, (kind of) get to my target.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I reflected by checking in my mind if everything is coded correctly, if the avatar for my page is the correct height and length and many more self thoughts. </td>
+    <td>This is probably the thing that I did the most as I did fail with my variables at one point and then kept on trying to see what went wrong and what was to change.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I feel like I could have contributed more, instead of looking at the screen trying to improve my work, when the improvements were getting discussed the whole time.</td>
+    <td>Even though I love the simplicity of coding in scratch it is a total bummer when it comes to variables almost like a small spill of paint on a brilliant white paper.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have definitely tried more things, for an example, I could have used more combinations to get the perfect colour mix. This would be effective because then the blog would look more appealing.  </td>
+    <td>What I could have done was ask about the connection of the variables or how I could interlink the variables with some operators and sensors to make life easier then you can use the 'if touching colour’ in mix with the ‘ change points’</td>
     <td></td>
   </tr>
 </table>
